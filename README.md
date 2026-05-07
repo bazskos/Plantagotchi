@@ -55,6 +55,18 @@ Plantagotchi/
 
 ---
 
+## 🔑 Environment Variables
+
+Create a `.env` file in the root directory of the project and add the following variables:
+
+```env
+OPENAI_API_KEY=your_api_key_here
+```
+
+The `.env` file is excluded from version control for security reasons.
+
+---
+
 ## 📸 Screenshots
 <img width="1068" height="693" alt="Screenshot" src="https://github.com/user-attachments/assets/c900bffd-9311-4fcb-ad3b-3c9bb310f02d" />
 <img width="750" height="655" alt="Screenshot" src="https://github.com/user-attachments/assets/772db885-425d-4e80-bfad-eeb360ac812d" />
